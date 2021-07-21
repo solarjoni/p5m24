@@ -1,0 +1,9 @@
+img {
+  width: 200px;
+}
+body {
+  text-align: center;
+  font-family: 'Courier';
+  background-color: rgba(228, 163, 170, 0.986);
+  color: rgba(70, 57, 16, 0.986);
+}
